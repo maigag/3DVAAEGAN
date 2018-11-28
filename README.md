@@ -8,6 +8,8 @@ and helping the latter modeling the latent space with the support of an adversar
 
 Many thanks to Prof. Marc Pollefeys, Martin Oswald and Ian Cherabier.
 
+For more information you can find here the [Master Thesis](https://drive.google.com/file/d/1C7uH1WjhMimJ1du6-rwDK9CtzvJQgpzd/view?usp=sharing)
+
 <img src="./img/RESULT.png" width="500">
 
 # Introduction
