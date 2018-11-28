@@ -133,9 +133,14 @@ the evaluated raw input data.
 
 # Results
 
+The following figures show examples of completions. One can see how the model smoothes everything and tries to complete the missing parts, such as the floor,
+the bed or a table with chairs.
+
 <img src="./img/RESULT2.png" width="600">
 
 <img src="./img/RESULT3.png" width="600">
+
+<img src="./img/RESULT4.png" width="600">
 
 
 
